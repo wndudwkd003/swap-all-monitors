@@ -1,0 +1,9 @@
+<schemalist>
+  <schema id="org.gnome.shell.extensions.swapall"
+          path="/org/gnome/shell/extensions/swapall/">
+    <key name="swap-all" type="as">
+      <default><![CDATA[['<Super><Shift>s']]]></default>
+      <summary>Swap all windows</summary>
+    </key>
+  </schema>
+</schemalist>

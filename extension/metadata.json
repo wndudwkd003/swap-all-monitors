@@ -1,0 +1,7 @@
+{
+  "uuid": "swapall@local",
+  "name": "Swap All Monitors",
+  "description": "Swap all visible application windows between two monitors",
+  "shell-version": ["42"],
+  "version": 1
+}
