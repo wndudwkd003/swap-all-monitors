@@ -1,5 +1,7 @@
 # Swap All Monitors
 
+![좌우 모니터 창 교환 시연](fig/show.gif)
+
 단축키 한 번으로 좌우 모니터의 창들을 서로 교환하는 GNOME 확장입니다.
 
 이 프로젝트는 **GPT-6-Astra**로 만들었습니다.
