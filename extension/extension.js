@@ -20,8 +20,7 @@ function swapAllWindows() {
     const workspace = global.workspace_manager.get_active_workspace();
 
     const windows = workspace.list_windows().filter(win => {
-        return !win.minimized &&
-               !win.skip_taskbar &&
+        return !win.skip_taskbar &&
                (win.get_monitor() === 0 || win.get_monitor() === 1);
     });
 
